@@ -1,0 +1,614 @@
+[
+    {
+        "id": 1,
+        "name": "001",
+        "img": "/assets/manikur/1.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 2,
+        "name": "002",
+        "img": "/assets/manikur/2.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 3,
+        "name": "003",
+        "img": "/assets/manikur/3.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 4,
+        "name": "004",
+        "img": "/assets/manikur/4.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 5,
+        "name": "005",
+        "img": "/assets/manikur/5.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 6,
+        "name": "006",
+        "img": "/assets/manikur/6.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 7,
+        "name": "007",
+        "img": "/assets/manikur/7.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 8,
+        "name": "008",
+        "img": "/assets/manikur/8.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 9,
+        "name": "009",
+        "img": "/assets/manikur/9.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 10,
+        "name": "010",
+        "img": "/assets/manikur/10.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 11,
+        "name": "011",
+        "img": "/assets/manikur/11.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 103,
+        "name": "103",
+        "img": "/assets/manikur/12.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 104,
+        "name": "104",
+        "img": "/assets/manikur/13.jpg",
+        "category": "manikursetlerimiz"
+    },
+    {
+        "id": 16,
+        "name": "016",
+        "img": "/assets/pedikur/5.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 14,
+        "name": "014",
+        "img": "/assets/pedikur/3.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 15,
+        "name": "015",
+        "img": "/assets/pedikur/4.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 17,
+        "name": "017",
+        "img": "/assets/pedikur/6.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 18,
+        "name": "018",
+        "img": "/assets/pedikur/7.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 19,
+        "name": "019",
+        "img": "/assets/pedikur/8.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 20,
+        "name": "020",
+        "img": "/assets/pedikur/9.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 21,
+        "name": "021",
+        "img": "/assets/pedikur/10.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 22,
+        "name": "022",
+        "img": "/assets/pedikur/11.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 23,
+        "name": "023",
+        "img": "/assets/pedikur/12.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 24,
+        "name": "024",
+        "img": "/assets/pedikur/13.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 25,
+        "name": "025",
+        "img": "/assets/pedikur/14.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 26,
+        "name": "026",
+        "img": "/assets/pedikur/15.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 27,
+        "name": "027",
+        "img": "/assets/pedikur/16.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 28,
+        "name": "028",
+        "img": "/assets/pedikur/17.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 13,
+        "name": "013",
+        "img": "/assets/pedikur/2.jpg",
+        "category": "pedikursetlerimiz"
+    },
+    {
+        "id": 29,
+        "name": "029",
+        "img": "/assets/yikama/1.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 30,
+        "name": "030",
+        "img": "/assets/yikama/2.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 31,
+        "name": "031",
+        "img": "/assets/yikama/3.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 32,
+        "name": "032",
+        "img": "/assets/yikama/4.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 34,
+        "name": "034",
+        "img": "/assets/yikama/6.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 35,
+        "name": "035",
+        "img": "/assets/yikama/8.jpg",
+        "category": "yikamasetlerimiz"
+    },
+    {
+        "id": 36,
+        "name": "036",
+        "img": "/assets/tarama/1.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 37,
+        "name": "037",
+        "img": "/assets/tarama/2.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 38,
+        "name": "038",
+        "img": "/assets/tarama/3.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 39,
+        "name": "039",
+        "img": "/assets/tarama/4.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 40,
+        "name": "040",
+        "img": "/assets/tarama/5.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 41,
+        "name": "041",
+        "img": "/assets/tarama/6.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 42,
+        "name": "042",
+        "img": "/assets/tarama/7.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 43,
+        "name": "043",
+        "img": "/assets/tarama/8.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 44,
+        "name": "044",
+        "img": "/assets/tarama/9.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 45,
+        "name": "045",
+        "img": "/assets/tarama/10.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 46,
+        "name": "046",
+        "img": "/assets/tarama/11.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 47,
+        "name": "047",
+        "img": "/assets/tarama/12.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 48,
+        "name": "048",
+        "img": "/assets/tarama/13.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 49,
+        "name": "049",
+        "img": "/assets/tarama/14.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 50,
+        "name": "050",
+        "img": "/assets/tarama/15.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 51,
+        "name": "051",
+        "img": "/assets/tarama/16.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 52,
+        "name": "052",
+        "img": "/assets/tarama/17.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 53,
+        "name": "053",
+        "img": "/assets/tarama/18.jpg",
+        "category": "taramakoltuklarimiz"
+    },
+    {
+        "id": 54,
+        "name": "054",
+        "img": "/assets/makyaj/1.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 55,
+        "name": "055",
+        "img": "/assets/makyaj/2.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 56,
+        "name": "056",
+        "img": "/assets/makyaj/3.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 57,
+        "name": "057",
+        "img": "/assets/makyaj/4.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 58,
+        "name": "058",
+        "img": "/assets/makyaj/5.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 59,
+        "name": "059",
+        "img": "/assets/makyaj/6.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 60,
+        "name": "060",
+        "img": "/assets/makyaj/7.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 61,
+        "name": "061",
+        "img": "/assets/makyaj/8.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 62,
+        "name": "062",
+        "img": "/assets/makyaj/9.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 63,
+        "name": "063",
+        "img": "/assets/makyaj/10.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 64,
+        "name": "064",
+        "img": "/assets/makyaj/11.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 65,
+        "name": "065",
+        "img": "/assets/makyaj/12.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 66,
+        "name": "066",
+        "img": "/assets/makyaj/13.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 67,
+        "name": "067",
+        "img": "/assets/makyaj/14.jpg",
+        "category": "makyajkoltuklarimiz"
+    },
+    {
+        "id": 68,
+        "name": "068",
+        "img": "/assets/ayna/1.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 69,
+        "name": "069",
+        "img": "/assets/ayna/2.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 70,
+        "name": "070",
+        "img": "/assets/ayna/3.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 71,
+        "name": "071",
+        "img": "/assets/ayna/4.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 72,
+        "name": "072",
+        "img": "/assets/ayna/5.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 73,
+        "name": "073",
+        "img": "/assets/ayna/6.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 74,
+        "name": "074",
+        "img": "/assets/ayna/7.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 75,
+        "name": "075",
+        "img": "/assets/ayna/8.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 102,
+        "name": "102",
+        "img": "/assets/ayna/9.jpg",
+        "category": "aynacesitlerimiz"
+    },
+    {
+        "id": 76,
+        "name": "076",
+        "img": "/assets/oturma/1.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 77,
+        "name": "077",
+        "img": "/assets/oturma/2.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 78,
+        "name": "078",
+        "img": "/assets/oturma/3.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 79,
+        "name": "079",
+        "img": "/assets/oturma/4.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 80,
+        "name": "080",
+        "img": "/assets/oturma/5.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 81,
+        "name": "081",
+        "img": "/assets/oturma/6.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 82,
+        "name": "082",
+        "img": "/assets/oturma/7.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 83,
+        "name": "083",
+        "img": "/assets/oturma/8.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 84,
+        "name": "084",
+        "img": "/assets/oturma/9.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 85,
+        "name": "085",
+        "img": "/assets/oturma/10.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 86,
+        "name": "086",
+        "img": "/assets/oturma/11.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 87,
+        "name": "087",
+        "img": "/assets/oturma/12.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 88,
+        "name": "088",
+        "img": "/assets/oturma/13.jpg",
+        "category": "oturmagruplarimiz"
+    },
+    {
+        "id": 89,
+        "name": "089",
+        "img": "/assets/banko/1.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 90,
+        "name": "090",
+        "img": "/assets/banko/2.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 91,
+        "name": "091",
+        "img": "/assets/banko/3.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 92,
+        "name": "092",
+        "img": "/assets/banko/4.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 93,
+        "name": "093",
+        "img": "/assets/banko/5.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 94,
+        "name": "094",
+        "img": "/assets/banko/6.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 95,
+        "name": "095",
+        "img": "/assets/banko/7.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 96,
+        "name": "096",
+        "img": "/assets/banko/8.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 97,
+        "name": "097",
+        "img": "/assets/banko/9.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 98,
+        "name": "098",
+        "img": "/assets/banko/10.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 99,
+        "name": "099",
+        "img": "/assets/banko/11.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 100,
+        "name": "100",
+        "img": "/assets/banko/12.jpg",
+        "category": "karsilasmabankolarimiz"
+    },
+    {
+        "id": 101,
+        "name": "101",
+        "img": "/assets/banko/13.jpg",
+        "category": "karsilasmabankolarimiz"
+    }
+]

@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Products from "./pages/Products";
 import CategoryPage from "./pages/CategoryPage"; 
 import NotFound from './pages/NotFound';
+import WeightCalculationRuler from './pages/WeightCalculationRuler';
 import { useTranslation } from 'react-i18next';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
         <Route path="/hakkimizda" element={<About />} />
         <Route path="/urunlerimiz" element={<Products />} />
         <Route path="/urunlerimiz/:category" element={<CategoryPage />} />
+        <Route path="/agirlik-hesaplama-cetveli" element={<WeightCalculationRuler />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>

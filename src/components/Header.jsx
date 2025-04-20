@@ -42,6 +42,9 @@ function Header() {
           <Link to="/urunlerimiz" className={`navbar_link xl:text-lg ${location.pathname == '/urunlerimiz' ? 'text-blue-700' : false}`}>
             {t("header.products")}
           </Link>
+          <Link to="/agirlik-hesaplama-cetveli" className={`navbar_link xl:text-lg ${location.pathname == '/agirlik-hesaplama-cetveli' ? 'text-blue-700' : false}`}>
+            {t("header.weightCalculationRuler")}
+          </Link>
           <Link to="/iletisim" className={`navbar_link xl:text-lg ${location.pathname == '/iletisim' ? 'text-blue-700' : false}`}>
             {t("header.contact")}
           </Link>

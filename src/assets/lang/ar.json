@@ -29,5 +29,25 @@
     "products.karsilasma": "كاونترات الاستقبال لدينا",
     "products.tumu": "جميع منتجاتنا",
     "popup.footer": "تحميل الصورة",
-    "product.no": "رقم المنتج: "
+    "product.no": "رقم المنتج: ",
+    "products": {
+        "title": "منتجاتنا",
+        "description": "وصف المنتج",
+        "features": "المميزات",
+        "applications": "التطبيقات",
+        "specifications": "المواصفات الفنية",
+        "notFound": "المنتج غير موجود",
+        "specifications.density": "الكثافة",
+        "specifications.meltingPoint": "نقطة الانصهار",
+        "specifications.tensileStrength": "قوة الشد",
+        "specifications.conductivity": "التوصيلية",
+        "alüminyum": "الألمنيوم",
+        "bakır": "النحاس",
+        "bronz": "البرونز",
+        "fiber": "الألياف",
+        "kestamit": "الكستاميت",
+        "pirinç": "النحاس الأصفر",
+        "polietilen": "البولي إيثيلين",
+        "polyemid": "البولي أميد"
+    }
 }

@@ -29,5 +29,25 @@
     "products.karsilasma": "Reception Counters",
     "products.tumu": "All Products",
     "popup.footer": "Download Image",
-    "product.no": "Product No: "
+    "product.no": "Product No: ",
+    "products": {
+        "title": "Our Products",
+        "description": "Product Description",
+        "features": "Features",
+        "applications": "Applications",
+        "specifications": "Technical Specifications",
+        "notFound": "Product not found",
+        "specifications.density": "Density",
+        "specifications.meltingPoint": "Melting Point",
+        "specifications.tensileStrength": "Tensile Strength",
+        "specifications.conductivity": "Conductivity",
+        "alüminyum": "Aluminum",
+        "bakır": "Copper",
+        "bronz": "Bronze",
+        "fiber": "Fiber",
+        "kestamit": "Kestamit",
+        "pirinç": "Brass",
+        "polietilen": "Polyethylene",
+        "polyemid": "Polyamide"
+    }
 }

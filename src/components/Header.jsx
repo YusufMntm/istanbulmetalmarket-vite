@@ -34,12 +34,14 @@ function Header() {
             <option value="tr" disabled={i18n.language === "tr"}>
               Türkçe
             </option>
+            {/*
             <option value="en" disabled={i18n.language === "en"}>
               English
             </option>
             <option value="ar" disabled={i18n.language === "ar"}>
               عربي
             </option>
+            */}
           </select>
           <Navbar.Toggle />
         </div>

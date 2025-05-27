@@ -11,7 +11,8 @@ import fiberImage from "../assets/productsBGS/fiber.png";
 import kestamitImage from "../assets/productsBGS/kestamit.png";
 import pirinçImage from "../assets/productsBGS/pirinç.png";
 import polietilenImage from "../assets/productsBGS/polietilen.png";
-import polyemidImage from "../assets/productsBGS/polyemid.png";
+import polyamidImage from "../assets/productsBGS/polyamid.png";
+import ptfeImage from "../assets/productsBGS/ptfe.png";
 
 const Products = () => {
   const { t } = useTranslation();
@@ -24,7 +25,8 @@ const Products = () => {
     { name: "products.kestamit", path: "kestamit", bg: kestamitImage },
     { name: "products.pirinç", path: "pirinç", bg: pirinçImage },
     { name: "products.polietilen", path: "polietilen", bg: polietilenImage },
-    { name: "products.polyemid", path: "polyemid", bg: polyemidImage },
+    { name: "products.polyamid", path: "polyamid", bg: polyamidImage },
+    { name: "products.ptfe", path: "ptfe", bg: ptfeImage },
   ];
 
   return (

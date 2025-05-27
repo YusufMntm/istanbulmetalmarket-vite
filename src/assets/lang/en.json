@@ -48,6 +48,7 @@
         "kestamit": "Kestamit",
         "pirinç": "Brass",
         "polietilen": "Polyethylene",
-        "polyemid": "Polyamide"
+        "polyamid": "Polyamide",
+        "ptfe": "PTFE(Teflon)"
     }
 }

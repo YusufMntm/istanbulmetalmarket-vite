@@ -14,7 +14,8 @@ import fiberImage from "../assets/productsBGS/fiber.png";
 import kestamitImage from "../assets/productsBGS/kestamit.png";
 import pirinçImage from "../assets/productsBGS/pirinç.png";
 import polietilenImage from "../assets/productsBGS/polietilen.png";
-import polyemidImage from "../assets/productsBGS/polyemid.png";
+import polyamidImage from "../assets/productsBGS/polyamid.png";
+import ptfeImage from "../assets/productsBGS/ptfe.png";
 
 function Home() {
   const { t, i18n } = useTranslation();
@@ -27,7 +28,8 @@ function Home() {
     { name: "kestamit", img: kestamitImage },
     { name: "pirinç", img: pirinçImage },
     { name: "polietilen", img: polietilenImage },
-    { name: "polyemid", img: polyemidImage },
+    { name: "polyamid", img: polyamidImage },
+    { name: "ptfe", img: ptfeImage },
   ];
 
   return (

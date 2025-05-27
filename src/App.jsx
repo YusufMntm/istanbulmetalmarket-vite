@@ -10,6 +10,7 @@ import ProductDetail from "./pages/ProductDetail";
 import NotFound from './pages/NotFound';
 import WeightCalculationRuler from './pages/WeightCalculationRuler';
 import { useTranslation } from 'react-i18next';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   const { i18n } = useTranslation();
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <Router>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/iletisim" element={<Contact />} />
@@ -31,6 +33,7 @@ function App() {
         <Route path="/agirlik-hesaplama-cetveli" element={<WeightCalculationRuler />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <ScrollToTop />
     </Router>
   );
 }

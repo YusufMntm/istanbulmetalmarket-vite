@@ -22,13 +22,13 @@
     "contact.address": "Adres",
     "contact.title2": "Bizimle İletişime Geçin",
     "products.alüminyum": "Alüminyum Ürünleri",
-    "products.bakır": "Bakır Ürünleri",
+    "products.bakır": "Bakır",
     "products.bronz": "Bronz Ürünleri",
     "products.fiber": "Fiber Ürünleri",
     "products.kestamit": "Kestamit Ürünleri",
     "products.pirinç": "Pirinç Ürünleri",
     "products.polietilen": "Polietilen Ürünleri",
-    "products.polyemid": "Polyemid Ürünleri",
+    "products.polyamid": "Polyamid Ürünleri",
     "products.tumu": "Tüm Ürünlerimiz",
     "popup.footer": "Resmi İndir",
     "product.no": "Ürün No: ",
@@ -44,12 +44,12 @@
         "specifications.tensileStrength": "Çekme Mukavemeti",
         "specifications.conductivity": "İletkenlik",
         "alüminyum": "Alüminyum",
-        "bakır": "Bakır",
         "bronz": "Bronz",
         "fiber": "Fiber",
         "kestamit": "Kestamit",
         "pirinç": "Pirinç",
         "polietilen": "Polietilen",
-        "polyemid": "Polyemid"
+        "polyamid": "Polyamid",
+        "ptfe": "PTFE(Teflon)"
     }
 }
